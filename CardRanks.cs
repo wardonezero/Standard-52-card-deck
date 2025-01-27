@@ -1,0 +1,17 @@
+﻿namespace Standard_52_card_deck;
+public enum CardRanks
+{
+    Ace = 1,
+    Two,
+    Three,
+    Four,
+    Five,
+    Six,
+    Seven,
+    Eight,
+    Nine,
+    Ten,
+    Jack,
+    Queen,
+    King
+}
